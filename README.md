@@ -107,11 +107,11 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 С помощью тераформа создаются 5 серверов
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/1.1.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.1.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/1.2.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/0.2.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/1.3.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/0.3.png)
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
 
