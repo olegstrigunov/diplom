@@ -1,0 +1,50 @@
+---
+
+- name: Install zabbix
+  hosts: zabbix_agent
+  become: yes
+
+  tasks:
+  - name: Install gnupg, apt-transport-https
+    apt:
+      name:
+      - apt-transport-https
+      - gnupg
+      state: present
+
+  - name: zabbix release
+    ansible.builtin.get_url:
+      url: https://repo.zabbix.com/zabbix/6.4/ubuntu/pool/main/z/zabbix-release/zabbix-release_6.4-1+ubuntu22.04_all.deb
+      dest: /home/user/
+
+  - name: install zabbix release
+    shell: "dpkg -i zabbix-release_6.4-1+ubuntu22.04_all.deb"
+
+  - name: Update apt
+    become: true
+    apt:
+      upgrade: yes
+
+  - name: install zabbix-agent
+    apt:
+      name:
+      - zabbix-agent
+
+  - name: Systemctl daemon reload
+    systemd:
+      daemon_reload: true
+      name: zabbix-agent
+      state: started
+
+  - name: Copy config file for zabbix-agent
+    copy:
+      src: ../zabbix/zabbix_agentd.conf
+      dest: /etc/zabbix
+      mode: 0660
+      owner: root
+      group: zabbix
+
+  - name: Systemctl enable zabbix-agent
+    systemd:
+      name: zabbix-agent
+      state: restarted
