@@ -115,6 +115,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.4.png)
 
+Работа web интерфейсов
+
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.1.png)
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.2.png)
@@ -122,6 +124,8 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.3.png)
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.4.png)
+
+Не смог поставить failbeat, на физической локальной машине все ставилось без проблем, найти что не так не получилось.
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.1.png)
 
