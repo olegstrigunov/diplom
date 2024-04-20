@@ -109,20 +109,24 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 
 ![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.1.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/0.2.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.2.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/0.3.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.3.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.4.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.1.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.2.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.3.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.4.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.1.png)
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshot/61.png)
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.2.png)
+
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.3.png)
+
+![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.4.png)
