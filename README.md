@@ -103,34 +103,5 @@ Cоздайте ВМ, разверните на ней Elasticsearch. Устан
 2. Откладывание выполнения дипломной работы на последний момент.
 3. Ожидание моментального ответа на свой вопрос. Дипломные руководители — работающие инженеры, которые занимаются, кроме преподавания, своими проектами. Их время ограничено, поэтому постарайтесь задавать правильные вопросы, чтобы получать быстрые ответы :)
 
-### Ответ
 
-С помощью тераформа создаются 5 серверов
 
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.1.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.2.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.3.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/0.4.png)
-
-Работа web интерфейсов
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.1.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.2.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.3.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/1.4.png)
-
-Не смог поставить failbeat, на физической локальной машине все ставилось без проблем, найти что не так не получилось.
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.1.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.2.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.3.png)
-
-![Скриншот-1](https://github.com/olegstrigunov/diplom/blob/main/screanshots/2.4.png)
